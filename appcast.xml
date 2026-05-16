@@ -5,5 +5,12 @@
     <link>https://raw.githubusercontent.com/saryou/nudge-releases/main/appcast.xml</link>
     <description>Most recent Nudge updates</description>
     <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <description><![CDATA[<h2>Nudge v0.1.0</h2><p><a href="https://github.com/saryou/nudge-releases/releases/tag/v0.1.0">Release notes on GitHub</a></p>]]></description>
+      <pubDate>Sat, 16 May 2026 08:47:14 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/saryou/nudge-releases/releases/download/v0.1.0/nudge-v0.1.0.dmg" sparkle:version="202605160845" sparkle:shortVersionString="0.1.0" type="application/octet-stream" sparkle:edSignature="0K5iaz5jiHsdnNC5+p7yhY9ADkJOoaJl7AyEI5kc+rXHHwETS4SgzX/K+tLuNVyainjvRWUgdiMnKBJDG+l6Bw==" length="1731882" />
+    </item>
   </channel>
 </rss>
